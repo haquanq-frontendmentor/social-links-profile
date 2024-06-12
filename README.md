@@ -16,7 +16,7 @@ Users should be able to:
 - Built with: `HTML` `CSS`
 - Mobile first workflow
 
-:link: [`Solution Link`]() :link: [`Live Site Link`]()
+:link: [`Solution Link`](https://www.frontendmentor.io/solutions/only-html-and-css-0uuXzWne2H) :link: [`Live Site Link`](https://haquanq.github.io/fm-social-links-profile/)
 
 ![](./.docs/design/destkop-design.jpg)
 
