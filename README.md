@@ -5,18 +5,16 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Challenge
 
-- No access to design files :expressionless:
+- No access to design files, attemp pixel-perfect
 
 Users should be able to:
 
-- See hover and focus states for all interactive elements on the page :yum:
+- See hover and focus states for all interactive elements on the page
 
 ### Solution
 
 - Built with: `HTML` `CSS`
-- Mobile first workflow
-
-:link: [`Solution Link`](https://www.frontendmentor.io/solutions/only-html-and-css-0uuXzWne2H) :link: [`Live Site Link`](https://haquanq.github.io/fm-social-links-profile/)
+- Mobile-first workflow
 
 ![](./.docs/design/destkop-design.jpg)
 
