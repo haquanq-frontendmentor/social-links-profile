@@ -3,26 +3,53 @@
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-### Challenge
+## Table of contents
 
-- No access to design files, attemp pixel-perfect
+- [Project overview](#rocket-project-overview)
+- [Development workflow](#boat-development-workflow)
+- [Working in this repository](#astronaut-working-in-fm-social-links-profile-repository)
+- [License](#page_with_curl-license)
 
-Users should be able to:
+## :rocket: Project overview
+
+### Challenge requirements
 
 - See hover and focus states for all interactive elements on the page
 
-### Solution
+### Implemented features
 
-- Built with: `HTML` `CSS`
-- Mobile-first workflow
+- Added focus effect on interactive elements
+
+### Screenshots
 
 ![](./.docs/design/destkop-design.jpg)
 
-## Working in `fm-social-links-profile` repository
+## :boat: Development workflow
+
+### Approach
+
+Developed with mobile-first workflow.
+
+### Built with
+
+| Tool          | Note                               |
+| ------------- | ---------------------------------- |
+| `HTML`        | Standard markup language           |
+| `CSS`         | Vanilla CSS                        |
+| `BrowserSync` | Development server, live reloading |
+
+## :astronaut: Working in `fm-social-links-profile` repository
+
+### Presequisites
+
+Having these tools installed:
+
+- Git (prefer lastest LTS version)
+- NodeJS (prefer latest LTS version)
 
 ### Clone this project to your machine
 
-Make sure you have Git installed in your system, open new terminal, run the following command:
+Open new terminal, run the following command:
 
 ```
 git clone https://github.com/haquanq/fm-social-links-profile.git
@@ -41,3 +68,7 @@ In terminal, run `npm run dev` to start development server:
 ```
 npm run dev
 ```
+
+## :page_with_curl: License
+
+This project follows [MIT License](./LICENSE). **DO NOT** use this project as your solution on [Frontend mentor](https://www.frontendmentor.io/solutions).
