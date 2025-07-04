@@ -97,17 +97,17 @@ h6 {
     line-height: var(--leading-paragraph);
     margin-bottom: 1.5rem;
 }
-.profile__link__list {
+.profile-social__list {
     padding: 0;
     list-style: none;
     width: 100%;
     font-weight: var(--font-bold);
     color: var(--clr-white);
 }
-.profile__link__item:not(:last-child) {
+.profile-social__item:not(:last-child) {
     margin-bottom: 1rem;
 }
-.profile__link__item a {
+.profile-social__item a {
     display: block;
     background-color: var(--clr-grey);
     padding: 1rem 0 0.9375rem 0;
@@ -117,13 +117,13 @@ h6 {
     transition-duration: 200ms;
     transition-timing-function: ease;
 }
-.profile__link__item a:focus-visible {
+.profile-social__item a:focus-visible {
     outline: 2px dashed var(--clr-green);
     outline-offset: 4px;
 }
 
 @media (hover: hover) {
-    .profile__link__item a:hover {
+    .profile-social__item a:hover {
         background-color: var(--clr-green);
         color: var(--clr-dark-grey);
     }
