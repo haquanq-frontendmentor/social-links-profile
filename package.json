@@ -1,5 +1,5 @@
 {
-  "name": "fm-social-links-profile",
+  "name": "social-links-profile",
   "description": "Solution for frontendmentor.io challenge: social-links-profile",
   "devDependencies": {
     "browser-sync": "^3.0.2"
