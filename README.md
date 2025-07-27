@@ -34,7 +34,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - See hover and focus states for all interactive elements on the page
 - View the optimal layout depending on their device's screen size
 
-### Implementations
+### Todo
 
 Accessibility
 
